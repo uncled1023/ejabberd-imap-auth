@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Imap-Auth")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .net console app that acts as an external authentication for ejabberd to an IMAP server.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Teknik")]
 [assembly: AssemblyProduct("Imap-Auth")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
